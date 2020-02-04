@@ -19,10 +19,10 @@
   `flutter run`
 
  ### screenshots
-![ScreenShot] (/screenshot/screenshot_1.JPEG)<br>
+![ScreenShot](/screenshot/screenshot_1.JPEG)<br>
 
-![ScreenShot] (/screenshot/screenshot_2.JPEG)<br>
+![ScreenShot](/screenshot/screenshot_2.JPEG)<br>
 
-![ScreenShot] (/screenshot/screenshot_3.JPEG)<br>
+![ScreenShot](/screenshot/screenshot_3.JPEG)<br>
 
-![ScreenShot] (/screenshot/screenshot_4.JPEG)<br>
+![ScreenShot](/screenshot/screenshot_4.JPEG)<br>
